@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Origin10/EE1T94.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Origin10/PetFriends.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\SSH" />
